@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-parent.iml" filepath="$PROJECT_DIR$/spring-parent/spring-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring-parent/spring01/spring01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring-parent/spring02/spring02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring03/spring03.iml" filepath="$PROJECT_DIR$/spring-parent/spring03/spring03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring04/spring04.iml" filepath="$PROJECT_DIR$/spring-parent/spring04/spring04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring05/spring05.iml" filepath="$PROJECT_DIR$/spring-parent/spring05/spring05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring06/spring06.iml" filepath="$PROJECT_DIR$/spring-parent/spring06/spring06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring07/spring07.iml" filepath="$PROJECT_DIR$/spring-parent/spring07/spring07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-parent/springmvc-parent.iml" filepath="$PROJECT_DIR$/springmvc-parent/springmvc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-parent/springmvc001/springmvc001.iml" filepath="$PROJECT_DIR$/springmvc-parent/springmvc001/springmvc001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-parent/springmvc002/springmvc002.iml" filepath="$PROJECT_DIR$/springmvc-parent/springmvc002/springmvc002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-parent/springmvc003/springmvc003.iml" filepath="$PROJECT_DIR$/springmvc-parent/springmvc003/springmvc003.iml" />
+    </modules>
+  </component>
+</project>
