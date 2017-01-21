@@ -32,7 +32,7 @@ public class PersonalExcelView extends AbstractXlsxView {
 		XSSFSheet sheet = (XSSFSheet)workbook.createSheet("list");    
         sheet.setDefaultColumnWidth((short) 12);    
         XSSFCell cell =  sheet.createRow(0).createCell(0);
-        cell.setCellValue("Spring Excel test");
+        cell.setCellValue("Spring Excel controller");
         
         XSSFCellStyle dateStyle = (XSSFCellStyle)workbook.createCellStyle();    
         //dateStyle.setDataFormat(HSSFDataFormat.getBuiltinFormat("mm/dd/yyyy"));    

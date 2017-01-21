@@ -7,5 +7,7 @@
     <file url="file://$PROJECT_DIR$/spring-parent/spring04" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-parent/spring05" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc-parent/springmvc001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-parent/springmvc002/src/main/java/cn/com/liu/springmvc002/controller/SpringMVCTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-parent/springmvc002/src/main/java/cn/com/liu/springmvc002/exceptions/UserNameNotMatchPasswordException.java" charset="UTF-8" />
   </component>
 </project>

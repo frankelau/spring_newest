@@ -42,7 +42,7 @@ public class SpringMVCTest {
 	@RequestMapping("/testMyView")
 	public String testMyView(ModelMap model){
 		System.out.println("testMyView");
-		model.put("test", "liuxianzhao");
+		model.put("controller", "liuxianzhao");
 		return "personalExcelView";
 	}
 	
